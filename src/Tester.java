@@ -10,7 +10,7 @@ public class Tester {
     public static void main(String[] args) {
 
     String mySurname = "Petrucci";
-    
+
     System.out.println("---------------------------------Request-------------------------------------------");
     System.out.println("Does the surname name contain the letters \"in\" ?? "
                        + (mySurname.contains("ni") ? "It contains it." : "it does not contain it."));
